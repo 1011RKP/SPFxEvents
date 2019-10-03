@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "DrugDevelopment-LPD-Calendar-Events",
+    "id": "a4c2cccc-29ce-4fef-a321-6e0c08942438",
+    "version": "1.1.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/DrugDevelopment-LPD-Calendar-Events.sppkg"
+  }
+}
